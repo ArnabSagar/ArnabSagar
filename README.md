@@ -4,17 +4,19 @@
 
 - 🌱 I’m a second year computer science student at the University of Guelph
 - 🔭 I’m currently working on my personal website and blog
-- 🥅 2021 Goals: Contribute more to Open Source, pursue independent research projects, and release music 
+- 🥅 2021 Goals: Contribute more to Open Source, pursue independent math & tech research project, and release music
 - 👯 I'm open to software engineering internships and work opportunities for Summer 2021 and Fall 2021
-<!-- - ⚡ Fun fact:  -->
 
-<!-- ### Connect with me:
+### Connect with me:
+[<img align="left" alt="arnabsagar.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Arnab Sagar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Arnab Sagar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Arnab Sagar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+<br />
+
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Arnab Sagar's Spotify Playing" width="350" />](https://open.spotify.com/user/chuckycheese99) 
 
 <br />
 
@@ -46,8 +48,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-
-
 
 
 ### 🗣 Github Stats
