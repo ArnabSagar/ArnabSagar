@@ -1,25 +1,12 @@
-<!-- - 🌱 I’m currently learning React  -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
-<!-- - ⚡ Fun fact: ... -->
-
-### Hi there, I'm Arnab [website] 👋
-
-
+### Hi there, I'm Arnab  👋
 
 ## I'm a Student, Developer, and Hobbyist Musician 
 
 - 🔭 I’m currently working on my personal website and blog
 - 🌱 I’m a second year computer science student at the University of Guelph
-- 🥅 2021 Goals: Contribute more to Open Source, pursue independent research projects, and releasing music 
-- 👯 I'm open to software engineering internships and work opportunities for Summer 20201 and Fall 2021
+- 🥅 2021 Goals: Contribute more to Open Source, pursue independent research projects, and release music 
+- 👯 I'm open to software engineering internships and work opportunities for Summer 2021 and Fall 2021
 <!-- - ⚡ Fun fact:  -->
-
-<!-- ### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
 
 <!-- ### Connect with me:
 
@@ -30,6 +17,11 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
+
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Arnab Sagar's Spotify Playing" width="350" />](https://open.spotify.com/user/chuckycheese99) 
+
+---
 
 ### Languages and Tools:
 
