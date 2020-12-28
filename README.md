@@ -22,7 +22,7 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Arnab Sagar's Spotify Playing" width="350" />](https://open.spotify.com/user/chuckycheese99) 
 
 <br />
----
+--- 
 
 ### Languages and Tools:
 
