@@ -60,9 +60,6 @@
 <img align="left" alt="Arnab Sagar's GitHub Stats" src="https://github-readme-stats.arnabsagar.vercel.app/api?username=ArnabSagar&show_icons=true&hide_border=true&theme=radical" />
 
 
-### Top Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnabSagar)](https://github.com/ArnabSagar/github-readme-stats)
-
 [website]: http://arnabsagar.xyz
 [instagram]: https://www.instagram.com/arnab.sagar/
 [linkedin]: https://www.linkedin.com/in/arnabsagar/
