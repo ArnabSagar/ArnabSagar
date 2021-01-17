@@ -3,7 +3,7 @@
 ## I'm a Student, Developer, and Hobbyist Musician 
 
 - 🌱 I’m a second year computer science student at the University of Guelph
-- 🔭 I’m currently working on my personal website and blog
+- 🔭 I’m currently working on a fun chrome extension
 - 🥅 2021 Goals: Contribute more to Open Source, pursue independent math & tech research project, and release music
 - 👯 I'm open to software engineering internships and work opportunities for Summer 2021 and Fall 2021.
 
