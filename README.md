@@ -3,9 +3,9 @@
 ## I'm a Student, Developer, and Hobbyist Musician 
 
 - 🌱 I’m a third year computer science student at the University of Guelph
-- 🔭 I’m currently working at Symcor Inc. as a Solutions Co-ordinator
-- 🥅 2021 Goals: Contribute more to Open Source, pursue independent math & tech research project, and release music
-- 👯 I'm actively seeking software engineering internships and work opportunities for Summer 2022.
+- 🔭 I’m currently working at Kings Distributed Systems as a Core Software Developer
+- 🥅 2021 Goals: Contribute more to Open Source, pursue independent research project, and make music
+- 👯 ~~I'm actively seeking software engineering internships and work opportunities for Summer 2022.~~
 
 ### Connect with me:
 [<img align="left" alt="arnabsagar.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
